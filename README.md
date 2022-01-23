@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-I create stuff sometimes.
+ ↪ I create stuff sometimes.
 
 ## 👨🏻‍💻 Mais sobre mim
 
