@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-    **I create stuff sometimes.👨🏻‍💻**
+    *I create stuff sometimes.👨🏻‍💻*
 
 ## <img width="45" alt="about" src="https://static.wikia.nocookie.net/five-nights-at-freddys-world-world/images/6/6d/PurpleGuyIdle.gif/revision/latest?cb=20160514182608"> Mais sobre mim
 
