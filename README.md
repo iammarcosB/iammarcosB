@@ -2,7 +2,7 @@
 
 I create stuff sometimes.👨🏻‍💻
 
-## <img width="50" alt="about" src="https://data.whicdn.com/images/107845788/original.gif"> Mais sobre mim
+## <img width="50" alt="about" src="https://i.gifer.com/4Snj.gif"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
