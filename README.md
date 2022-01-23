@@ -4,7 +4,7 @@ I create stuff sometimes.👨🏻‍💻
 
 ## <img width="45" alt="about" src="https://static.wikia.nocookie.net/five-nights-at-freddys-world-world/images/6/6d/PurpleGuyIdle.gif/revision/latest?cb=20160514182608"> Mais sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="300" src="https://data.whicdn.com/images/107845788/original.gif" />
 
 ```JavaScript
 var aboutMe = new Object(); {
