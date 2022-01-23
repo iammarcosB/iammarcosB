@@ -29,7 +29,7 @@ var aboutMe = new Object(); {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammarcosb&theme=tokyonightl&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammarcosb&theme=tokyonight&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
