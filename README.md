@@ -6,13 +6,15 @@
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```JavaScript
-var aboutMe = new Object(); {
-    aboutMe.name = "Marcos Barcelos";
-    aboutMe.acknowledgements = "Front-end";
-    aboutMe.languages = 'Javascript', 'Python', 'React';
-}
+```diff
+< Marcos Barcelos 
 
+> ama esporte, é introvertido;
+> conversa sobre tech e aleatoriedades;
+> joga cs nas horas vagas.
+
+! ‍dev web
+! estudante de sistemas de informação
 ```
 
 
