@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 Mais sobre mim
 
-<img align="right" height="175" width="250" style="border-radius: 10px" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" >
+
 
 ```diff
 < Marcos Barcelos 
