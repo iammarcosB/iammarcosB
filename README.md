@@ -16,6 +16,8 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/iqy40do458761xkklmfaazoe8)
 
+<img align="right" src="https://drive.google.com/file/d/1AyaFoDxEvZjh66M2qG1XCLeA-XOaZDjV/view?usp=sharing" />
+
 ---
 
 #### Rede Sociais!
