@@ -1,9 +1,7 @@
-### Hi, Marcos here! 👋
+## Hello, World! 👋
 
   ↳ 𝗜 𝗰𝗿𝗲𝗮𝘁 𝘀𝘁𝘂𝗳𝗳 𝘀𝗼𝗺𝗲𝘁𝗶𝗺𝗲𝘀.
-
-## 👨🏻‍💻 Mais sobre mim
-
+---
 
 ### I am Darshan Jain
 - Sou Front-end developer.
