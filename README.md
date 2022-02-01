@@ -8,7 +8,7 @@
 
 ```
 
----
+
 
 ### Spotify Playing 🎧
 
@@ -27,7 +27,7 @@
  <img  alt="Mb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"> 
  <img  alt="Mb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> 
  <img  alt="Mb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img width="120px" align="right" alt="GIF" src="http://pa1.narvii.com/6655/0ec9b34d5d3592ed65f79525d9ac2f168e66f10b_00.gif" />
+ <img width="290px" align="right" alt="GIF" src="http://pa1.narvii.com/6655/0ec9b34d5d3592ed65f79525d9ac2f168e66f10b_00.gif" />
 
 ---
 
