@@ -13,10 +13,11 @@
 ---
 
 ### Spotify Playing 🎧
+<a href="https://open.spotify.com/user/iqy40do458761xkklmfaazoe8">
+  <img width="290px" align="right" src="https://user-images.githubusercontent.com/92472624/151963418-f5521928-2f97-4724-9fc6-8ffdc99c12a6.png" />
+</a>
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/iqy40do458761xkklmfaazoe8)
-
-<img align="right" src="https://drive.google.com/file/d/1AyaFoDxEvZjh66M2qG1XCLeA-XOaZDjV/view?usp=sharing" />
 
 ---
 
