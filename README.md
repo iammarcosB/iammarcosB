@@ -1,8 +1,4 @@
-## Hello, World! 👋
-
-  ↳ 𝗜 𝗰𝗿𝗲𝗮𝘁 𝘀𝘁𝘂𝗳𝗳 𝘀𝗼𝗺𝗲𝘁𝗶𝗺𝗲𝘀.
-
-### I am Marcos Barcelos
+## Hi, Marcos here! 👋
 
 ```diff 
 - Front-end developer;
@@ -15,6 +11,7 @@
 ---
 
 ### Spotify Playing 🎧
+
 <a href="https://open.spotify.com/user/iqy40do458761xkklmfaazoe8">
   <img width="290px" align="right" src="https://user-images.githubusercontent.com/92472624/151963418-f5521928-2f97-4724-9fc6-8ffdc99c12a6.png" />
 </a>
@@ -23,16 +20,14 @@
 
 ---
 
-#### Language ⚒
+#### Languages ⚒
 
 <div display="inline">
  <img  alt="Mb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"> 
  <img  alt="Mb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"> 
  <img  alt="Mb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> 
  <img  alt="Mb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img width="120px" align="right" alt="GIF" src="http://pa1.narvii.com/6655/0ec9b34d5d3592ed65f79525d9ac2f168e66f10b_00.gif" />
-
+ <img width="120px" align="right" alt="GIF" src="http://pa1.narvii.com/6655/0ec9b34d5d3592ed65f79525d9ac2f168e66f10b_00.gif" />
 
 ---
 
