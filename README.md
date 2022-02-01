@@ -10,6 +10,8 @@
 - Atualmente trabalhando e aprendendo em alguns dos meus projetos paralelos baseados em Desenvolvimento Web
 - Atualmente estou procurando oportunidades. Gosto de aprender e contribuir de todas as formas possíveis.
 
+---
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/iqy40do458761xkklmfaazoe8)
