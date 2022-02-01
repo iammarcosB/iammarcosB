@@ -2,13 +2,16 @@
 
   ↳ 𝗜 𝗰𝗿𝗲𝗮𝘁 𝘀𝘁𝘂𝗳𝗳 𝘀𝗼𝗺𝗲𝘁𝗶𝗺𝗲𝘀.
 
-<img align="right" alt="GIF" src="http://pa1.narvii.com/6655/0ec9b34d5d3592ed65f79525d9ac2f168e66f10b_00.gif" />
+<img width="250px" align="right" alt="GIF" src="http://pa1.narvii.com/6655/0ec9b34d5d3592ed65f79525d9ac2f168e66f10b_00.gif" />
 
 ### I am Marcos Barcelos
+
+```diff 
 - Sou Front-end developer.
 - Estudante de Sistemas de Informação.
-- Atualmente trabalhando e aprendendo em alguns dos meus projetos paralelos baseados em Desenvolvimento Web
-- Atualmente estou procurando oportunidades. Gosto de aprender e contribuir de todas as formas possíveis.
+- Trabalhando em alguns dos meus projetos web.
+- Gosto de aprender e contribuir de todas as formas possíveis.
+```
 
 ---
 
