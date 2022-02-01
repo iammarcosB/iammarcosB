@@ -5,26 +5,17 @@
 ## 👨🏻‍💻 Mais sobre mim
 
 
-
-```diff
-< Marcos Barcelos 
-
-> ama esporte, é introvertido;
-> conversa sobre tech e aleatoriedades;
-> joga cs nas horas vagas.
-
-! ‍dev web
-! estudante de sistemas de informação
-```
+### I am Darshan Jain
+- Sou Front-end developer.
+- Estudante de Sistemas de Informação.
+- Atualmente trabalhando e aprendendo em alguns dos meus projetos paralelos baseados em Desenvolvimento Web
+- Atualmente estou procurando oportunidades. Gosto de aprender e contribuir de todas as formas possíveis.
 
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/iqy40do458761xkklmfaazoe8)
 
 ---
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
 
 #### Rede Sociais!
 
