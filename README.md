@@ -5,10 +5,11 @@
 ### I am Marcos Barcelos
 
 ```diff 
-- Sou Front-end developer.
-- Estudante de Sistemas de Informação.
-- Trabalhando em meus projetos web.
+- Front-end developer;
+- Estudante de Sistemas de Informação;
+- Trabalhando em meus projetos web;
 - Gosto de aprender e contribuir.
+
 ```
 
 ---
