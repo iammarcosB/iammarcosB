@@ -41,7 +41,7 @@
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>  
 
-<a href="!Marcosb#9411" target="_blank" title="! Marcosb#9411">
+<a href=" Mpk (Marcosb)#9411" target="_blank" title="Mpk (Marcos)#9411">
  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> 
 </a>  
 
