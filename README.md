@@ -2,9 +2,9 @@
 
 <div align="center">
   
-<img width = 250px src="https://i0.wp.com/i.ya-webdesign.com/images/avatar-gif-png-3.gif" />
+<img width = 350px src="https://i0.wp.com/media.giphy.com/media/124rIiBX0Kh5Cw/giphy.gif" />
 
-I'm a information sistems student @ [Famec](http://faculdadefamec.com.br/).
+I'm a information systems student @ [Famec](http://faculdadefamec.com.br/).
 
 <details>
   <summary> More about me</summary>
@@ -43,3 +43,4 @@ const marcosb = {
 [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:marcosbarcelosdev@gmail.com)
 [![Twitter: bymarcosb](https://img.shields.io/twitter/follow/bymarcosb?style=social)](https://twitter.com/bymarcosb)
 [![Linkedin: Marcosbarcelos](https://img.shields.io/badge/-marcosbarcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosbarcelos/)](https://www.linkedin.com/in/marcosbarcelos/)
+[![GitHub: marcosbarcelos](https://img.shields.io/github/followers/marcosbarcelos?label=follow&style=social)](https://github.com/marcosbarcelos)
