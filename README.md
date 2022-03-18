@@ -4,7 +4,7 @@
   
 <img width = 350px src="https://i0.wp.com/media.giphy.com/media/124rIiBX0Kh5Cw/giphy.gif" />
 
-I'm a information systems student @ [Famec](http://faculdadefamec.com.br/).
+I'm a computer science student @ [UNF](https://www.unifacs.br/).
 
 <details>
   <summary> More about me</summary>
