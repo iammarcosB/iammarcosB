@@ -1,46 +1,43 @@
+### Hi, I'm Marcos! &nbsp;&nbsp;<sup>👾 &#12299;I create stuff. Front-End developer & Research.</sup>
+
+----
+
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
+![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=111&logoColor=AAA&style=flat-square&link=)
+![html](https://img.shields.io/static/v1?logo=html5&label=&message=html&color=111&logoColor=AAA&style=flat-square)
+![css](https://img.shields.io/static/v1?logo=css3&label=&message=css&color=111&logoColor=AAA&style=flat-square)
+![sass](https://img.shields.io/static/v1?logo=sass&label=&message=sass&color=111&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
+![bootstrap](https://img.shields.io/static/v1?logo=bootstrap&label=&message=bootstrap&color=111&logoColor=AAA&style=flat-square)
+![figma](https://img.shields.io/static/v1?logo=figma&label=&message=figma&color=111&logoColor=AAA&style=flat-square)
+![vscode](https://img.shields.io/static/v1?logo=visualstudio&label=&message=vscode&color=111&logoColor=AAA&style=flat-square)
+![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=111&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
 
 
-<div align="center">
-  
-<img width = 350px src="https://i0.wp.com/media.giphy.com/media/124rIiBX0Kh5Cw/giphy.gif" />
+**Comp.Sci Student at Universidade Salvador** &#12299;_studying computer science with a focus on SE & AI_
+<br/>
+**Research at Universidade Salvador** &#12299;_working in Scientific Research & Computing_
 
-I'm a computer science student @ [UNF](https://www.unifacs.br/).
+----
 
-<details>
-  <summary> More about me</summary>
-<div align="left">
- 
-``` js
-const marcosb = {
-    personal: {
-        fullName: 'Marcos Barcelos',
-        birthDate: '2004-05-21',
-        pronouns: 'he' | 'him',
-        interests: ['music', 'games', 'language learning', 'anime', 'sports'],
-        motivation: [
-            'Promote technology as an impact factor in peoples lives',
-            'Making life easier and smarter through tech'
-        ],
-    },
-    technical: {
-        technologies: {
-            frontEnd: {
-                Javascript: ['Vanilla JS', 'React'],
-                HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['sass', 'styled-components', 'Bootstrap', 'Sass'],
-            },
-            backEnd: {
-                Javascript: ['Node.js', 'Express']
-            },
-            tools: ['vscode', 'windows', 'linux', 'figma', 'git'],
-        },
-    }
-}
-```
-  </div>
-</details>
+<a href="https://linkedin.com/in/marcosbarcelos">
+  <img align="left" alt="Marcos's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/bymarcosb/">
+  <img align="left" alt="Marcos's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/bymarcosb">
+  <img align="left" alt="Marcos's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-[![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:marcosbarcelosdev@gmail.com)
-[![Twitter: bymarcosb](https://img.shields.io/twitter/follow/bymarcosb?style=social)](https://twitter.com/bymarcosb)
-[![Linkedin: Marcosbarcelos](https://img.shields.io/badge/-marcosbarcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosbarcelos/)](https://www.linkedin.com/in/marcosbarcelos/)
-[![GitHub: marcosbarcelos](https://img.shields.io/github/followers/marcosbarcelos?label=follow&style=social)](https://github.com/marcosbarcelos)
+<a href="mailto:marcosbarcelosdev@gmail.com">
+  <img align="left" alt="Marcos's Email" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://bymarcosb.medium.com/">
+  <img align="left" alt="Marcos's Medium" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
+| &nbsp;&nbsp;&nbsp; Website & Portfolio : [marcosbarcelos.github.io/Portfolio/](https://marcosbarcelos.github.io/Portfolio/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; I creat stuff sometimes  <sub>&#9660; &#9660; &#9660;</sub>
