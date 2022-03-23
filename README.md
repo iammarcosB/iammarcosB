@@ -18,21 +18,21 @@ const marcosb = {
         pronouns: 'he' | 'him',
         interests: ['music', 'games', 'language learning', 'anime', 'sports'],
         motivation: [
-            'promote technology as an impact factor in peoples lives',
+            'Promote technology as an impact factor in peoples lives',
             'Making life easier and smarter through tech'
         ],
     },
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['Vanilla JS', 'React', 'Redux', 'Jest'],
+                Javascript: ['Vanilla JS', 'React'],
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['sass', 'styled-components', 'Bootstrap'],
+                CSS: ['sass', 'styled-components', 'Bootstrap', 'Sass'],
             },
             backEnd: {
                 Javascript: ['Node.js', 'Express']
             },
-            tools: ['vscode', 'windows', 'linux', 'figma', 'cmd', 'git'],
+            tools: ['vscode', 'windows', 'linux', 'figma', 'git'],
         },
     }
 }
