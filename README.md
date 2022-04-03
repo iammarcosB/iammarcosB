@@ -15,11 +15,13 @@
 ![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
+![worksat](https://img.shields.io/static/v1?label=&message=@:&color=555&style=flat-square)
+![praxis](https://img.shields.io/static/v1?logo=square&label=&message=praxis&color=111&logoColor=FF0000&style=flat-square)
 
 
-**Comp.Sci Student at Universidade Salvador** &#12299;_studying computer science with a focus on SE & AI_
+**Comp.Sci Student at Universidade Salvador** &#12299;_studying computer science with a focus on SE_
 <br/>
-**Research at Universidade Salvador** &#12299;_working in Scientific Research & Computing_
+**Trainee at Praxis - Empresa Jr** &#12299;_working in Web Wevelopment and Project Analytics IT_
 
 ----
 
