@@ -16,12 +16,12 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![worksat](https://img.shields.io/static/v1?label=&message=@:&color=555&style=flat-square)
-![praxis](https://img.shields.io/static/v1?logo=square&label=&message=praxis&color=111&logoColor=FF0000&style=flat-square)
+![praxis](https://img.shields.io/static/v1?logo=square&label=&message=praxis&color=111&logoColor=yellow&style=flat-square)
 
 
 **Comp.Sci Student at Universidade Salvador** &#12299;_studying computer science with a focus on SE_
 <br/>
-**Trainee at Praxis - Empresa Jr** &#12299;_working in Web Wevelopment and Project Analytics IT_
+**Trainee at Praxis - Empresa Jr** &#12299;_working in Web Development and Project Analytics IT_
 
 ----
 
