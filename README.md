@@ -1,4 +1,4 @@
-### Hi, I'm Marcos! &nbsp;&nbsp;<sup>👾 &#12299;I create stuff. Front-End developer & Research.</sup>
+### Hi, I'm Marcos! &nbsp;&nbsp;<sup>👾 &#12299;I create stuff sometimes.</sup>
 
 ----
 
