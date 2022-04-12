@@ -21,7 +21,7 @@
 
 **Comp.Sci Student at Universidade Salvador** &#12299;_studying computer science with a focus on SE_
 <br/>
-**Trainee at Praxis - Empresa Jr** &#12299;_working in Web Development and Project Analytics IT_
+**Trainee at Praxis - Empresa Jr** &#12299;_trainee in Web Development_
 
 ----
 
