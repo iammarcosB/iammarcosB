@@ -28,10 +28,10 @@
 <a href="https://linkedin.com/in/marcosbarcelos">
   <img align="left" alt="Marcos's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/bymarcosb/">
+<a href="https://www.instagram.com/m.barcelox/">
   <img align="left" alt="Marcos's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/bymarcosb">
+<a href="https://twitter.com/mbarcelosx">
   <img align="left" alt="Marcos's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
