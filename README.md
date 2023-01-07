@@ -21,7 +21,7 @@
 
 **Comp.Sci Student at Universidade Salvador** &#12299;_studying computer science with a focus on SE_
 <br/>
-**Front-End Developer at Praxis - Empresa Jr** &#12299;_working in Web Development_
+**Intern at Comquality** &#12299;_working in Web Development_
 
 ----
 
